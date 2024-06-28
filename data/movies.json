@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title": "Agent Cody Banks",
+        "release": 2003,
+        "imdb": "https://www.imdb.com/title/tt0313911/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNzMwMjc5NzUyNF5BMl5BanBnXkFtZTcwNjA5MDcyNA@@._V1_.jpg"
+    },
+    {
+        "id": 2,
+        "title": "She's the Man",
+        "release": 2006,
+        "imdb": "https://www.imdb.com/title/tt0454945/?ref_=fn_al_tt_1",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZDM1ZTRiN2ItNDQ2MC00Y2I2LTkwODQtOThhNGQ3ZjRmOWNhXkEyXkFqcGdeQXVyMTUyOTc1NDYz._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Ella Enchanted",
+        "release": 2004,
+        "imdb": "https://www.imdb.com/title/tt0327679/?ref_=nv_sr_srsg_6_tt_1_nm_7_q_ella%2520e",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZGI1MjMzMWEtZDc3Ni00Y2RiLTllOGQtMTVlZjRkOGE3MGNlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "id": 4,
+        "title": "What a Girl Wants",
+        "release": 2003,
+        "imdb": "https://www.imdb.com/title/tt0286788/?ref_=nm_knf_t_3",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOTllOWQyNzktMTE5OS00NzJkLTgyYjUtNjIwY2Y4OThhNjgxL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Hairspray",
+        "release": 2007,
+        "imdb": "https://www.imdb.com/title/tt0427327/?ref_=nm_knf_t_1",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZmFhMzFkZTMtNmUxNS00OWQ1LTlhNjMtYzhmNTU4NmUzZDQwXkEyXkFqcGdeQXVyMTkzODUwNzk@._V1_.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Step Up",
+        "release": 2006,
+        "imdb": "https://www.imdb.com/title/tt0462590/?ref_=nm_flmg_t_50_act",
+        "poster": "https://m.media-amazon.com/images/M/MV5BODEzMzVhODgtOTc1NS00MmY3LWI3OGUtN2ZjNDEwM2ExZjJlXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_.jpg"
+    }
+]
