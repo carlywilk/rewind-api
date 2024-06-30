@@ -1,5 +1,12 @@
 [
     {
+        "id": 1,
+        "title": "Mean Girls",
+        "release": 2004,
+        "imdb": "https://www.imdb.com/title/tt0377092/?ref_=fn_al_tt_2",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjE1MDQ4MjI1OV5BMl5BanBnXkFtZTcwNzcwODAzMw@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
         "id": 2,
         "title": "She's the Man",
         "release": 2006,
@@ -33,5 +40,96 @@
         "release": 2006,
         "imdb": "https://www.imdb.com/title/tt0462590/?ref_=nm_flmg_t_50_act",
         "poster": "https://m.media-amazon.com/images/M/MV5BODEzMzVhODgtOTc1NS00MmY3LWI3OGUtN2ZjNDEwM2ExZjJlXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Spy Kids",
+        "release": 2001,
+        "imdb": "https://www.imdb.com/title/tt0227538/?ref_=fn_al_tt_1",
+        "poster": "https://m.media-amazon.com/images/M/MV5BY2JhODU1NmQtNjllYS00ZmQwLWEwZjYtMTE5NjA1M2YyMzdjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Spy Kids 2: Island of Lost Dreams",
+        "release": 2002,
+        "imdb": "https://www.imdb.com/title/tt0287717/?ref_=fn_al_tt_4",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNWM2N2JjYzYtYWIyNS00NDc3LWFkNDctMmYwOWQyZTcxYjZhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"
+    },
+    {
+        "id": 9,
+        "title": "Spy Kids 3: Game Over",
+        "release": 2003,
+        "imdb": "https://www.imdb.com/title/tt0338459/?ref_=fn_al_tt_2",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTI4MTQyNTUzMF5BMl5BanBnXkFtZTcwNzE2MDAwMQ@@._V1_.jpg"
+    },
+    {
+        "id": 10,
+        "title": "Twilight",
+        "release": 2008,
+        "imdb": "https://www.imdb.com/title/tt1099212/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_twilight",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTQ2NzUxMTAxN15BMl5BanBnXkFtZTcwMzEyMTIwMg@@._V1_.jpg"
+    },
+    {
+        "id": 11,
+        "title": "The Twilight Saga: New Moon",
+        "release": 2009,
+        "imdb": "https://www.imdb.com/title/tt1259571/?ref_=tt_sims_tt_i_1",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTI3MjE3NDIxNF5BMl5BanBnXkFtZTcwODM3NTY5Mg@@._V1_.jpg"
+    },
+    {
+        "id": 12,
+        "title": "The Twilight Saga: Eclipse",
+        "release": 2010,
+        "imdb": "https://www.imdb.com/title/tt1325004/?ref_=tt_sims_tt_i_2",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNDMwNjAzNzYwOF5BMl5BanBnXkFtZTcwMDY5NzcyMw@@._V1_.jpg"
+    },
+    {
+        "id": 13,
+        "title": "The Twilight Saga: Breaking Dawn Part 1",
+        "release": 2011,
+        "imdb": "https://www.imdb.com/title/tt1324999/?ref_=tt_sims_tt_i_3",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNGE3MGI2YjMtYmQ3OS00OTUwLThhMjgtMjA2NThiYTNhOTM5XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg"
+    },
+    {
+        "id": 14,
+        "title": "The Twilight Saga: Breaking Dawn Part 2",
+        "release": 2012,
+        "imdb": "https://www.imdb.com/title/tt1673434/?ref_=tt_sims_tt_i_4",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTcyMzUyMzY1OF5BMl5BanBnXkFtZTcwNDQ4ODk1OA@@._V1_.jpg"
+    },
+    {
+        "id": 15,
+        "title": "The House Bunny",
+        "release": 2008,
+        "imdb": "https://www.imdb.com/title/tt0852713/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BODkxMDg0MjM2OF5BMl5BanBnXkFtZTcwMjc0NTU4MQ@@._V1_.jpg"
+    },
+    {
+        "id": 16,
+        "title": "Happy Feet",
+        "release": 2006,
+        "imdb": "https://www.imdb.com/title/tt0366548/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZWU2NDkxYjktNWVlMS00MTM4LWJjMDAtOWYxZjJkZWFhYzAxXkEyXkFqcGdeQXVyMTA1NjE5MTAz._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "id": 17,
+        "title": "Big Fat Liar",
+        "release": 2002,
+        "imdb": "https://www.imdb.com/title/tt0265298/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNmEyNGFmODYtZjhjNC00NGViLTllMjQtYWYyZmQ1OGEzMzRlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "id": 18,
+        "title": "Sydney White",
+        "release": 2007,
+        "imdb": "https://www.imdb.com/title/tt0815244/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTk3ODc3ODAxN15BMl5BanBnXkFtZTcwNzcwMDU1MQ@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "id": 19,
+        "title": "Cadet Kelly",
+        "release": 2001,
+        "imdb": "https://www.imdb.com/title/tt0294425/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BY2JkYWY1NWItZjRkMC00MjBmLWI2Y2MtYzkzMmE2ODJiZjU2L2ltYWdlXkEyXkFqcGdeQXVyNTE4MzAyNDk@._V1_FMjpg_UX1000_.jpg"
     }
 ]
